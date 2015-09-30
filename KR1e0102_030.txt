@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋毛氏傳
-#+DATE: 2015-09-23 09:40:34
-#+PROPERTY: JUAN 30
+#+DATE: 2015-08-24 22:17:02.820558
+#+PROPERTY: ID KR1e0102
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十
 <pb:KR1e0102_WYG_030-1a>¶
 欽定四庫全書¶
 　春秋毛氏傳卷三十¶
@@ -362,4 +364,3 @@
 　¶
 　¶
 　春秋毛氏𫝊卷三十¶
-

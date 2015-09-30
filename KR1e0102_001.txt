@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋毛氏傳
-#+DATE: 2015-09-23 09:40:34
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:17:02.223895
+#+PROPERTY: ID KR1e0102
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 春秋毛氏傳
 <pb:KR1e0102_WYG_001-1a>¶
 欽定四庫全書　　　　　經部五¶
 　春秋毛氏傳　　　　　　春秋類¶
@@ -122,6 +124,7 @@
 <pb:KR1e0102_WYG_001-7b>¶
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　　　　總　校　官(臣/)陸　費　墀¶
+#+PROPERTY: JUAN 卷一
 <pb:KR1e0102_WYG_001-8a>¶
 欽定四庫全書¶
 　春秋毛氏傳卷一¶
@@ -446,4 +449,3 @@
 　¶
 　¶
 　春秋毛氏傳卷一¶
-

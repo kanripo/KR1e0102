@@ -1,5 +1,0 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 春秋毛氏傳
-#+DATE: 2015-09-23 09:40:34
-#+PROPERTY: JUAN 0
-
